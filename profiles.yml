@@ -1,0 +1,13 @@
+efashion:
+  outputs:
+    dev:
+      account: dy78823.eu-west-3.aws
+      database: efashion
+      password: 7E4dpoOl563
+      role: accountadmin
+      schema: stg_bronze
+      threads: 4
+      type: snowflake
+      user: vincent2mots
+      warehouse: compute_wh
+  target: dev
