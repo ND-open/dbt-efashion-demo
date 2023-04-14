@@ -1,4 +1,4 @@
-Welcome to your new dbt project!
+Bienvenue sur notre projet DBT
 
 ### Using the starter project
 
