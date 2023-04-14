@@ -1,0 +1,13 @@
+version: 2
+
+models:
+  - name: test
+    description: Test de documentation avec description longue sur fichier .sql
+    columns:
+      - name: state
+        description: Nom de l'etat
+        tests:
+          - not_null
+      - name: sales_revenue
+        description: aggregat des ventes
+
